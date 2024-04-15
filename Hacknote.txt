@@ -1,0 +1,20 @@
+盗取文件目前方案：
+设为共享，从隔壁电脑盗取（需要管理员wtf）
+
+
+
+
+
+无法cd（待解决）可以使用以下方法
+
+
+echo 333ccccc >> C:\Users\Administrator\Destop\6.bat
+echo 333ccccc >> C:\Users\Administrator\Destop\6.bat
+echo cd 3333 >> C:\Users\Administrator\Destop\6.bat
+echo 333ccccc >> C:\Users\Administrator\Destop\6.bat
+
+输入多条指令，指令将会单独占一行但是每行后附加一个空格
+
+start /B C:\Users\Administrator\Destop\6.bat 不启动新窗口运行
+
+del 删掉
